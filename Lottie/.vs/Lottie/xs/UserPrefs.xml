@@ -1,7 +1,10 @@
-﻿<Properties StartupConfiguration="{28A8BDF0-BF37-9063-CC68-659E0303D519}|">
-  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/CharacterControl.cs">
+﻿<Properties>
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/Chest.cs">
     <Files>
-      <File FileName="Assets/Scripts/CharacterController.cs" Line="39" Column="74" />
+      <File FileName="Assets/Scripts/CharacterControl.cs" Line="54" Column="44" />
+      <File FileName="Assets/Scripts/LampControl.cs" Line="51" Column="14" />
+      <File FileName="Assets/Scripts/Chest.cs" Line="75" Column="1" />
+      <File FileName="Assets/Scripts/Door.cs" Line="32" Column="1" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />

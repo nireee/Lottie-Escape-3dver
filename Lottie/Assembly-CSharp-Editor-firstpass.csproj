@@ -47,12 +47,12 @@
     <ImplicitlyExpandDesignTimeFacades>false</ImplicitlyExpandDesignTimeFacades>
   </PropertyGroup>
   <ItemGroup>
-     <Compile Include="Assets\Standard Assets\Editor\Water\Water4\PlanarReflectionEditor.cs" />
-     <Compile Include="Assets\Standard Assets\Editor\Water\Water4\GerstnerDisplaceEditor.cs" />
-     <Compile Include="Assets\Standard Assets\Editor\Water\Water4\WaterEditorUtility.cs" />
-     <Compile Include="Assets\Standard Assets\Editor\Water\Water4\WaterBaseEditor.cs" />
      <Compile Include="Assets\Standard Assets\Editor\CrossPlatformInput\CrossPlatformInputInitialize.cs" />
      <Compile Include="Assets\Standard Assets\Editor\Water\Water4\SpecularLightingEditor.cs" />
+     <Compile Include="Assets\Standard Assets\Editor\Water\Water4\PlanarReflectionEditor.cs" />
+     <Compile Include="Assets\Standard Assets\Editor\Water\Water4\GerstnerDisplaceEditor.cs" />
+     <Compile Include="Assets\Standard Assets\Editor\Water\Water4\WaterBaseEditor.cs" />
+     <Compile Include="Assets\Standard Assets\Editor\Water\Water4\WaterEditorUtility.cs" />
  <Reference Include="UnityEngine">
  <HintPath>/Users/nireli/Desktop/Unity/2020.3.17f1/Unity.app/Contents/Managed/UnityEngine/UnityEngine.dll</HintPath>
  </Reference>
